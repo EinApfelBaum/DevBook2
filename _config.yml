@@ -1,4 +1,4 @@
-title: My title
+title: foam just the docs demo
 theme: just-the-docs
 
 highlighter: rouge
@@ -8,7 +8,8 @@ kramdown:
   math_engine: mathjax
   syntax_highlighter: rouge
 
-repository: RepoName
+baseurl: "/foam-template-just-the-docs-with-tags-demo" # the subpath of your site, e.g. /blog
+url: "https://einapfelbaum.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 
 # Enable or disable the site search
 # Supports true (default) or false
